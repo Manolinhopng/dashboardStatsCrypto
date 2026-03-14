@@ -20,7 +20,7 @@ Sigue estos pasos para correr el proyecto localmente en tu máquina.
 ### 1. Clonar el repositorio y navegar a la carpeta
 _(Asumiendo que hiciste un git clone)_
 ```bash
-cd dashBoardStatsClima
+cd dashBoardStatsCrypto
 ```
 
 ### 2. Instalar las dependencias
